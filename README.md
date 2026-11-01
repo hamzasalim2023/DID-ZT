@@ -894,8 +894,7 @@ This is a demonstration project for educational purposes. Contributions welcome:
 
 ## License
 
-This project is intended for educational and demonstration purposes. See LICENSE file for details.
-
+This project is intended for educational and demonstration purposes.
 ---
 
 ## Additional Resources
