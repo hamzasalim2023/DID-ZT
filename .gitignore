@@ -1,0 +1,28 @@
+# Runtime state
+.didauth/
+.venv/
+venv/
+
+# Keys and secrets (never commit)
+*.key
+*.pem
+*.jwk
+*.key.json
+
+# Generated files
+*.db
+*.json
+audit.log
+
+# Bytecode and cache
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+
+# OS and editor noise
+.DS_Store
+.vscode/
+.idea/
